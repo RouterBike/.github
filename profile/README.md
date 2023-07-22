@@ -4,11 +4,22 @@ This project was developed to improve my skills in developing a web application 
 
 ## Frontend
 
-It was built on React using Material UI.
+It was built on React using Material UI. The main page consists of a display of travel blocks that have several information like user id, location, scenery, road condition, road type and difficulty. It is also possible to delete each block individually.
 
-![ola](https://github.com/RouterBike/routerbike-frontend/tree/main/assets/create.png)
+![main](../main.png)
 
 
+To create a new block, there is a button at the top to do that. It opens a modal with the form to create the block:
+
+![create](../create.png)
+
+It is also possible to filter the blocks that the user wants to see, using the select windows under the "create a travel block" button. When the filters are selected the page updates the blocks immediately: 
+
+![filter](../filter.png)
+
+Each block is selectable and allows the user to edit the travel block information and update it:
+
+![update](../update.png)
 
 ## Backend
 
