@@ -11,15 +11,15 @@ It was built on React using Material UI. The main page consists of a display of 
 
 To create a new block, there is a button at the top to do that. It opens a modal with the form to create the block:
 
-![create]([../create.png](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/create.png))
+![create](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/create.png)
 
 It is also possible to filter the blocks that the user wants to see, using the select windows under the "create a travel block" button. When the filters are selected the page updates the blocks immediately: 
 
-![filter]([../filter.png](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/filter.png))
+![filter](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/filter.png)
 
 Each block is selectable and allows the user to edit the travel block information and update it:
 
-![update]([../update.png](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/update.png))
+![update](https://github.com/RouterBike/routerbike-frontend/blob/main/assets/update.png)
 
 ## Backend
 
