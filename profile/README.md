@@ -7,7 +7,7 @@ This project was developed to improve my skills in developing a web application 
 It was built on React using Material UI. The main page consists of a display of travel blocks that have several information like user id, location, scenery, road condition, road type and difficulty. It is also possible to delete each block individually.
 
 ![main](../main.png)
-
+ 
 
 To create a new block, there is a button at the top to do that. It opens a modal with the form to create the block:
 
